@@ -4,7 +4,7 @@ Fresh Artificial Intelligence graduate with interests in AI, data analysis, Powe
 
 ## Portfolio
 
-[View Portfolio PDF](./Alhanouf_Alsehli_Portfolio.pdf)
+[View Portfolio PDF](./Alhanouf%20alsehli%20_Portfolio%20.pdf)
 
 ## Projects
 
